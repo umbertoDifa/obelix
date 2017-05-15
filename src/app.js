@@ -1,5 +1,6 @@
 'use strict';
 
+const res=require('dotenv').config({path: 'merda.env'}); //load env variables
 const apiai = require('apiai');
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -7,6 +8,7 @@ const uuid = require('uuid');
 const request = require('request');
 const JSONbig = require('json-bigint');
 const async = require('async');
+const mongodb = require('mongodb');
 
 const REST_PORT = (process.env.PORT || 5000);
 const APIAI_ACCESS_TOKEN = process.env.APIAI_ACCESS_TOKEN;
@@ -14,16 +16,31 @@ const APIAI_LANG = process.env.APIAI_LANG || 'en';
 const FB_VERIFY_TOKEN = process.env.FB_VERIFY_TOKEN;
 const FB_PAGE_ACCESS_TOKEN = process.env.FB_PAGE_ACCESS_TOKEN;
 const FB_TEXT_LIMIT = 640;
+const MONGODB_URI = process.env.MONGODB_URI;
 
 const FACEBOOK_LOCATION = "FACEBOOK_LOCATION";
 const FACEBOOK_WELCOME = "FACEBOOK_WELCOME";
 
 class FacebookBot {
-    constructor() {
+    constructor() {        
         this.apiAiService = apiai(APIAI_ACCESS_TOKEN, {language: APIAI_LANG, requestSource: "fb"});
         this.sessionIds = new Map();
-        this.messagesDelay = 200;
+        this.messagesDelay = 200;    
+        this.querydb();    
     }
+
+    querydb(){
+        mongodb.MongoClient.connect(MONGODB_URI, function(err, db) {
+            if(err) throw err;
+
+            var a = db.collection('aperitivo').findOne({}, function(err, item) {
+                console.log(item);
+                console.log(err);
+            });
+            
+        }) 
+    } 
+    
 
 
     doDataResponse(sender, facebookResponseData) {
