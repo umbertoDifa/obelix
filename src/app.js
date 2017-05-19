@@ -569,10 +569,10 @@ app.post('/webhook/', (req, res) => {
                                     });
 
                                         //search places in mongodb
-                                   // var places = this.querydb();
-                                    //console.log(places);
+                                   var places = facebookBot.querydb();
+                                    console.log(places);
 
-                                    //FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate());
+                                    FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate());
                                 }
                             }
 
