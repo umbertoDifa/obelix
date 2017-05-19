@@ -289,6 +289,8 @@ class FacebookBot {
     }
 
     processFacebookEvent(event) {
+        console.log('facebook event received');
+        console.log(event);
         const sender = event.sender.id.toString();
         const eventObject = this.getFacebookEvent(event);
 
@@ -311,10 +313,13 @@ class FacebookBot {
 
             //search places in mongodb
             var places = this.querydb();
+            console.log(places);
         }
     }
 
     processMessageEvent(event) {
+        console.log('message event');
+        console.log(event);
         const sender = event.sender.id.toString();
         const text = this.getEventText(event);
 
@@ -514,6 +519,7 @@ const app = express();
 app.use(bodyParser.text({type: 'application/json'}));
 
 app.get('/webhook/', (req, res) => {
+    console.log('get received');
     if (req.query['hub.verify_token'] === FB_VERIFY_TOKEN) {
         res.send(req.query['hub.challenge']);
 
