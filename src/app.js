@@ -566,12 +566,13 @@ app.post('/webhook/', (req, res) => {
 
                                         facebookBot.processFacebookEvent(locationEvent);
 
-                                        //search places in mongodb
-                                        var places = this.querydb();
-                                        console.log(places);
-
-                                        FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate());
                                     });
+
+                                        //search places in mongodb
+                                    var places = this.querydb();
+                                    console.log(places);
+
+                                    FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate());
                                 }
                             }
 
