@@ -570,7 +570,7 @@ app.post('/webhook/', (req, res) => {
                                         var places = this.querydb();
                                         console.log(places);
 
-                                        FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate);
+                                        FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate());
                                     });
                                 }
                             }
