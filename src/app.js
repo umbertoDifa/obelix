@@ -528,7 +528,6 @@ class FacebookBot {
         if (!obj) {
             return false;
         }
-
         return obj != null;
     }
 
