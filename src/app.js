@@ -566,11 +566,11 @@ app.post('/webhook/', (req, res) => {
 
                                         facebookBot.processFacebookEvent(locationEvent);
 
-                                        //search places in mongodb
-                                        //var places = this.querydb();
-                                        //console.log(places);
+                                        search places in mongodb
+                                        var places = this.querydb();
+                                        console.log(places);
 
-                                        //FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate(event.sender.id.toString));
+                                        FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate());
                                     });
                                 }
                             }
@@ -608,6 +608,6 @@ facebookBot.doSubscribeRequest();
 
 
 
-function buildTemplate(USER_ID){
-    return '{ "recipient":{ "id":"'+USER_ID+'" }, "message":{ "attachment":{ "type":"template", "payload":{ "template_type":"generic", "elements":[ { "title":"Welcome to Peter\'s Hats", "image_url":"https://petersfancybrownhats.com/company_image.png", "subtitle":"We\'ve got the right hat for everyone.", "default_action": { "type": "web_url", "url": "https://peterssendreceiveapp.ngrok.io/view?item=103", "messenger_extensions": true, "webview_height_ratio": "tall", "fallback_url": "https://peterssendreceiveapp.ngrok.io/" }, "buttons":[ { "type":"web_url", "url":"https://petersfancybrownhats.com", "title":"View Website" },{ "type":"postback", "title":"Start Chatting", "payload":"DEVELOPER_DEFINED_PAYLOAD" } ] } ] } } } }'
+function buildTemplate(){
+    return 'message":{ "attachment":{ "type":"template", "payload":{ "template_type":"generic", "elements":[ { "title":"Welcome to Peter\'s Hats", "image_url":"https://petersfancybrownhats.com/company_image.png", "subtitle":"We\'ve got the right hat for everyone.", "default_action": { "type": "web_url", "url": "https://peterssendreceiveapp.ngrok.io/view?item=103", "messenger_extensions": true, "webview_height_ratio": "tall", "fallback_url": "https://peterssendreceiveapp.ngrok.io/" }, "buttons":[ { "type":"web_url", "url":"https://petersfancybrownhats.com", "title":"View Website" },{ "type":"postback", "title":"Start Chatting", "payload":"DEVELOPER_DEFINED_PAYLOAD" } ] } ] } } } }'
 }
