@@ -566,7 +566,7 @@ app.post('/webhook/', (req, res) => {
 
                                         facebookBot.processFacebookEvent(locationEvent);
 
-                                        search places in mongodb
+                                        //search places in mongodb
                                         var places = this.querydb();
                                         console.log(places);
 
