@@ -27,6 +27,7 @@ class FacebookBot {
         this.sessionIds = new Map();
         this.messagesDelay = 200;    
         this.querydb();    
+        this.configureWhiteListDomanis();
     }
 
     querydb(){
