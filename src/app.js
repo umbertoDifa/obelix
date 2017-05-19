@@ -572,7 +572,7 @@ app.post('/webhook/', (req, res) => {
                                         //search places in mongodb
                                    var places = facebookBot.querydb();
                                     console.log(places);
-
+                                    facebookBot.sendFBMessage(event.sender.id.toString(),addToWhiteList());
                                     facebookBot.sendFBMessage(event.sender.id.toString(),buildTemplate());
                                 }
                             }
@@ -613,4 +613,8 @@ facebookBot.doSubscribeRequest();
 function buildTemplate(){
     return '{ "attachment":{ "type":"template", "payload":{ "template_type":"generic", "elements":[ { "title":"Welcome to Peter\'s Hats", "image_url":"https://petersfancybrownhats.com/company_image.png", "subtitle":"We\'ve got the right hat for everyone.", "default_action": { "type": "web_url", "url": "https://peterssendreceiveapp.ngrok.io/view?item=103", "messenger_extensions": true, "webview_height_ratio": "tall", "fallback_url": "https://peterssendreceiveapp.ngrok.io/" }, "buttons":[ { "type":"web_url", "url":"https://petersfancybrownhats.com", "title":"View Website" },{ "type":"postback", "title":"Start Chatting", "payload":"DEVELOPER_DEFINED_PAYLOAD" } ] } ] } } }'
 
+}
+
+function addToWhiteList(){
+    return '{ "setting_type" : "domain_whitelisting", "whitelisted_domains" : ["https://petersfancyapparel.com"], "domain_action_type": "add" }'
 }
