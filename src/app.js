@@ -596,7 +596,6 @@ app.post('/webhook/', (req, res) => {
                                         //search places in mongodb
                                    var places = facebookBot.querydb();
                                     console.log(places);
-                                    facebookBot.sendFBMessage(event.sender.id.toString(),addToWhiteList());
                                     facebookBot.sendFBMessage(event.sender.id.toString(),buildTemplate());
                                 }
                             }
