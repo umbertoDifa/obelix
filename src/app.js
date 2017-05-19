@@ -547,10 +547,11 @@ app.get('/webhook/', (req, res) => {
 });
 
 app.post('/webhook/', (req, res) => {
+    console.log('post request');
+    console.log(req,res);
     try {
         const data = JSONbig.parse(req.body);
-        console.log('post request');
-        console.log(req,res);
+
         if (data.entry) {
             let entries = data.entry;
             entries.forEach((entry) => {
