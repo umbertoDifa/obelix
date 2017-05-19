@@ -49,6 +49,9 @@ class FacebookBot {
 
 
     doDataResponse(sender, facebookResponseData) {
+        console.log('do data response');
+        console.log(facebookResponseData);
+
         if (!Array.isArray(facebookResponseData)) {
             console.log('Response as formatted message');
             this.sendFBMessage(sender, facebookResponseData)
@@ -78,6 +81,8 @@ class FacebookBot {
     }
 
     doRichContentResponse(sender, messages) {
+        console.log('do rich content response');
+        console.log(messages);
         let facebookMessages = []; // array with result messages
 
         for (let messageIndex = 0; messageIndex < messages.length; messageIndex++) {
@@ -253,6 +258,8 @@ class FacebookBot {
 
     //which webhook event
     getEventText(event) {
+        console.log('getEventText');
+        console.log(event);
         if (event.message) {
             if (event.message.quick_reply && event.message.quick_reply.payload) {
                 return event.message.quick_reply.payload;
@@ -272,6 +279,8 @@ class FacebookBot {
     }
 
     getFacebookEvent(event) {
+        console.log('getFacebookEvent');
+        console.log(event);
         if (event.postback && event.postback.payload) {
 
             let payload = event.postback.payload;
@@ -346,6 +355,8 @@ class FacebookBot {
     }
 
     doApiAiRequest(apiaiRequest, sender) {
+        console.log('doApiAiRequest');
+
         apiaiRequest.on('response', (response) => {
             if (this.isDefined(response.result) && this.isDefined(response.result.fulfillment)) {
                 let responseText = response.result.fulfillment.speech;
@@ -407,6 +418,8 @@ class FacebookBot {
     }
 
     sendFBMessage(sender, messageData) {
+        console.log('sendFBMessage');
+        console.log(messageData);
         return new Promise((resolve, reject) => {
             request({
                 url: 'https://graph.facebook.com/v2.6/me/messages',
@@ -431,6 +444,8 @@ class FacebookBot {
     }
 
     sendFBSenderAction(sender, action) {
+        console.log('sendFBSenderAction');
+        console.log(action);
         return new Promise((resolve, reject) => {
             request({
                 url: 'https://graph.facebook.com/v2.6/me/messages',
