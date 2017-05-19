@@ -408,8 +408,9 @@ class FacebookBot {
         return output;
     }
 
-    sendFBMessage(sender, messageData) {
+    sendFBMessage(sender, messageData) {        
         console.log('sendFBMessage');
+        console.log(messageData);
         return new Promise((resolve, reject) => {
             request({
                 url: 'https://graph.facebook.com/v2.6/me/messages',
