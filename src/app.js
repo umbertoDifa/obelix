@@ -501,7 +501,7 @@ class FacebookBot {
 
     configureWhiteListDomanis(){
         console.log('configure whitelist');
-        return new Promise((resolve, reject) => {
+        
             request({
                 uri: `https://graph.facebook.com/v2.6/me/thread_settings?access_token=${FB_PAGE_ACCESS_TOKEN}`,
                 method: 'POST',
@@ -517,7 +517,7 @@ class FacebookBot {
                 } else {
                     console.log('Whitelisting result', response.body);
                 }
-            })});    
+            });    
     }
 
     isDefined(obj) {
