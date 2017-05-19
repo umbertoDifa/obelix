@@ -50,7 +50,6 @@ class FacebookBot {
 
     doDataResponse(sender, facebookResponseData) {
         console.log('do data response');
-        console.log(facebookResponseData);
 
         if (!Array.isArray(facebookResponseData)) {
             console.log('Response as formatted message');
@@ -82,7 +81,6 @@ class FacebookBot {
 
     doRichContentResponse(sender, messages) {
         console.log('do rich content response');
-        console.log(messages);
         let facebookMessages = []; // array with result messages
 
         for (let messageIndex = 0; messageIndex < messages.length; messageIndex++) {
@@ -259,7 +257,6 @@ class FacebookBot {
     //which webhook event
     getEventText(event) {
         console.log('getEventText');
-        console.log(event);
         if (event.message) {
             if (event.message.quick_reply && event.message.quick_reply.payload) {
                 return event.message.quick_reply.payload;
@@ -280,7 +277,6 @@ class FacebookBot {
 
     getFacebookEvent(event) {
         console.log('getFacebookEvent');
-        console.log(event);
         if (event.postback && event.postback.payload) {
 
             let payload = event.postback.payload;
@@ -299,7 +295,6 @@ class FacebookBot {
 
     processFacebookEvent(event) {
         console.log('facebook event received');
-        console.log(event);
         const sender = event.sender.id.toString();
         const eventObject = this.getFacebookEvent(event);
 
@@ -320,15 +315,11 @@ class FacebookBot {
                 });
             this.doApiAiRequest(apiaiRequest, sender);//send facebook event request to api ai
 
-            //search places in mongodb
-            var places = this.querydb();
-            console.log(places);
         }
     }
 
     processMessageEvent(event) {
         console.log('message event');
-        console.log(event);
         const sender = event.sender.id.toString();
         const text = this.getEventText(event);
 
@@ -419,7 +410,6 @@ class FacebookBot {
 
     sendFBMessage(sender, messageData) {
         console.log('sendFBMessage');
-        console.log(messageData);
         return new Promise((resolve, reject) => {
             request({
                 url: 'https://graph.facebook.com/v2.6/me/messages',
@@ -445,7 +435,6 @@ class FacebookBot {
 
     sendFBSenderAction(sender, action) {
         console.log('sendFBSenderAction');
-        console.log(action);
         return new Promise((resolve, reject) => {
             request({
                 url: 'https://graph.facebook.com/v2.6/me/messages',
@@ -548,7 +537,6 @@ app.get('/webhook/', (req, res) => {
 
 app.post('/webhook/', (req, res) => {
     console.log('post request');
-    console.log(req,res);
     try {
         const data = JSONbig.parse(req.body);
 
@@ -577,6 +565,12 @@ app.post('/webhook/', (req, res) => {
                                         };
 
                                         facebookBot.processFacebookEvent(locationEvent);
+
+                                        //search places in mongodb
+                                        var places = this.querydb();
+                                        console.log(places);
+
+                                        FacebookBot.sendFBMessage(event.sender.id.toString,buildTemplate);
                                     });
                                 }
                             }
@@ -611,3 +605,9 @@ app.listen(REST_PORT, () => {
 });
 
 facebookBot.doSubscribeRequest();
+
+
+
+function buildTemplate(){
+    return '{ "recipient":{ "id":"USER_ID" }, "message":{ "attachment":{ "type":"template", "payload":{ "template_type":"generic", "elements":[ { "title":"Welcome to Peter\'s Hats", "image_url":"https://petersfancybrownhats.com/company_image.png", "subtitle":"We\'ve got the right hat for everyone.", "default_action": { "type": "web_url", "url": "https://peterssendreceiveapp.ngrok.io/view?item=103", "messenger_extensions": true, "webview_height_ratio": "tall", "fallback_url": "https://peterssendreceiveapp.ngrok.io/" }, "buttons":[ { "type":"web_url", "url":"https://petersfancybrownhats.com", "title":"View Website" },{ "type":"postback", "title":"Start Chatting", "payload":"DEVELOPER_DEFINED_PAYLOAD" } ] } ] } } } }'
+}
