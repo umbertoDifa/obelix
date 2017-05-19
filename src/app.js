@@ -507,7 +507,7 @@ class FacebookBot {
                 method: 'POST',
                 json: {
                     setting_type : "domain_whitelisting", 
-                    whitelisted_domains : ["https://petersfancyapparel.com","https://petersfancybrownhats.com"], 
+                    whitelisted_domains : ["https://petersfancyapparel.com","https://petersfancybrownhats.com","https://peterssendreceiveapp.ngrok.io"], 
                     domain_action_type: "add" 
                 }
             },
