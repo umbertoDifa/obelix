@@ -33,10 +33,15 @@ class FacebookBot {
         mongodb.MongoClient.connect(MONGODB_URI, function(err, db) {
             if(err) throw err;
 
-            var a = db.collection('aperitivo').findOne({}, function(err, item) {
-                console.log(item);
-                console.log(err);
+            var foundItems;
+
+            db.collection('aperitivo').findOne({}, function(err, item) {
+                if(err) throw err;
+                console.log(item);   
+                foundItems = item;             
             });
+
+            return foundItems;
             
         }) 
     } 
@@ -302,7 +307,10 @@ class FacebookBot {
                         source: "facebook"
                     }
                 });
-            this.doApiAiRequest(apiaiRequest, sender);
+            this.doApiAiRequest(apiaiRequest, sender);//send facebook event request to api ai
+
+            //search places in mongodb
+            var places = this.querydb();
         }
     }
 
@@ -343,6 +351,7 @@ class FacebookBot {
                     let facebookResponseData = responseData.facebook;
                     this.doDataResponse(sender, facebookResponseData);
                 } else if (this.isDefined(responseMessages) && responseMessages.length > 0) {
+                    console.log(responseMessages);
                     this.doRichContentResponse(sender, responseMessages);
                 }
                 else if (this.isDefined(responseText)) {
@@ -519,7 +528,8 @@ app.get('/webhook/', (req, res) => {
 app.post('/webhook/', (req, res) => {
     try {
         const data = JSONbig.parse(req.body);
-
+        console.log('post request');
+        console.log(req,res);
         if (data.entry) {
             let entries = data.entry;
             entries.forEach((entry) => {
