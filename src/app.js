@@ -434,6 +434,7 @@ class FacebookBot {
         });
     }
 
+
     sendFBSenderAction(sender, action) {
         console.log('sendFBSenderAction');
         return new Promise((resolve, reject) => {
@@ -494,6 +495,29 @@ class FacebookBot {
                     console.log('Subscription result', response.body);
                 }
             });
+    }
+
+
+    configureWhiteListDomanis(){
+        console.log('configure whitelist');
+        return new Promise((resolve, reject) => {
+            request({
+                url: 'https://graph.facebook.com/v2.6/me/messages',
+                qs: {access_token: FB_PAGE_ACCESS_TOKEN},
+                method: 'POST',
+                json: {
+                    setting_type : "domain_whitelisting", 
+                    whitelisted_domains : ["https://petersfancyapparel.com","https://petersfancybrownhats.com"], 
+                    domain_action_type: "add" 
+                }
+            },
+            (error, response, body) => {
+                if (error) {
+                    console.error('Error while adding whitelist', error);
+                } else {
+                    console.log('Whitelisting result', response.body);
+                }
+            })});    
     }
 
     isDefined(obj) {
@@ -615,6 +639,3 @@ function buildTemplate(){
 
 }
 
-function addToWhiteList(){
-    return '{ "setting_type" : "domain_whitelisting", "whitelisted_domains" : ["https://petersfancyapparel.com"], "domain_action_type": "add" }'
-}
