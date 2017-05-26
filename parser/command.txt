@@ -1,0 +1,17 @@
+
+db.prova.createIndex({"geometry":"2dsphere"})
+
+db.prova.find(
+{
+   "geometry": {
+     $near: {
+       $geometry: {
+          type: "Point" ,
+          coordinates: [9.21105450000005, 45.462972 ]
+       },
+       $maxDistance: 10,
+       $minDistance: 0
+     }
+   }
+}
+)

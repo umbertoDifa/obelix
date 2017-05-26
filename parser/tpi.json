@@ -1,0 +1,2873 @@
+[
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18402590000005, 
+            45.4767309
+         ]
+      }, 
+      "Name": "California Bakery Corso Garibaldi Milano"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18110049999996, 
+            45.4608909
+         ]
+      }, 
+      "Name": "Ostello Bello"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18529179999996, 
+            45.4868609
+         ]
+      }, 
+      "Name": "Capra e Cavoli"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18015460000004, 
+            45.4818766
+         ]
+      }, 
+      "Name": "oTTo"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.23448259999998, 
+            45.4698097
+         ]
+      }, 
+      "Name": "Santeria Paladini 8"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19522970000003, 
+            45.4763093
+         ]
+      }, 
+      "Name": "Biancolatte"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1980251, 
+            45.464185
+         ]
+      }, 
+      "Name": "Lape"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20707970000001, 
+            45.4694455
+         ]
+      }, 
+      "Name": "Kitchen @more"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21652749999998, 
+            45.4810057
+         ]
+      }, 
+      "Name": "Caffetteria Pasticceria Antica Sicilia"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20866739999997, 
+            45.4976308
+         ]
+      }, 
+      "Name": "Caff\u00e8 Martesana"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17100500000004, 
+            45.480574
+         ]
+      }, 
+      "Name": "PastiCh\u00e9ri"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16454299999998, 
+            45.484734
+         ]
+      }, 
+      "Name": "Il Massimo Del Gelato"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22631539999998, 
+            45.4837059
+         ]
+      }, 
+      "Name": "Upcycle Milano Bike Caf\u00e8"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18006590000005, 
+            45.4478322
+         ]
+      }, 
+      "Name": "Rab"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19443100000001, 
+            45.461311
+         ]
+      }, 
+      "Name": "Graniteria"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17011939999998, 
+            45.4562274
+         ]
+      }, 
+      "Name": "Ofel\u00e9"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.15583779999997, 
+            45.4563691
+         ]
+      }, 
+      "Name": "I Gelati di Nanin\u00e0"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19362039999999, 
+            45.480026
+         ]
+      }, 
+      "Name": "Panzera Milano"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20622119999996, 
+            45.4776447
+         ]
+      }, 
+      "Name": "Pandenus"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1761831, 
+            45.4782464
+         ]
+      }, 
+      "Name": "Cal\u00f9 Bistrot Gastronomia"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19213939999997, 
+            45.4692848
+         ]
+      }, 
+      "Name": "Corsia del Giardino"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16991699999994, 
+            45.4570403
+         ]
+      }, 
+      "Name": "Valter Pisati Interior Design Caf\u00e8"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20351449999998, 
+            45.4808816
+         ]
+      }, 
+      "Name": "Crazy Cat Caf\u00e9"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20832250000001, 
+            45.4655675
+         ]
+      }, 
+      "Name": "Giacomo Tabaccheria"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20636719999993, 
+            45.4708324
+         ]
+      }, 
+      "Name": "Riad Food Garden"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20744160000004, 
+            45.4761798
+         ]
+      }, 
+      "Name": "V3raw"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20655499999998, 
+            45.45941
+         ]
+      }, 
+      "Name": "PanPerMe"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20530780000001, 
+            45.4630263
+         ]
+      }, 
+      "Name": "mariacarota"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21633129999998, 
+            45.4446267
+         ]
+      }, 
+      "Name": "Officine del Dolce"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21582539999997, 
+            45.4402758
+         ]
+      }, 
+      "Name": "GRAMMO MILANO"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21195, 
+            45.444585
+         ]
+      }, 
+      "Name": "Madama Hostel & Bistrot"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17044220000002, 
+            45.4594101
+         ]
+      }, 
+      "Name": "So Natural"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18313869999997, 
+            45.4567644
+         ]
+      }, 
+      "Name": "NATURAL BAKERY PANETTERIE DAMIANI VIA MOLINO DELLE ARMI 31 MILANO"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21633129999998, 
+            45.4446267
+         ]
+      }, 
+      "Name": "Officine del Dolce"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21539519999999, 
+            45.4441004
+         ]
+      }, 
+      "Name": "Bar-Pasticceria san Luigi"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.23482450000006, 
+            45.4704151
+         ]
+      }, 
+      "Name": "Pasticceria Migliavacca"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17763839999998, 
+            45.4585167
+         ]
+      }, 
+      "Name": "Pasticceria Cucchi"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19507509999994, 
+            45.4683227
+         ]
+      }, 
+      "Name": "Pasticceria Marchesi"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22470520000002, 
+            45.5025734
+         ]
+      }, 
+      "Name": "La Martesana"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19912399999998, 
+            45.4659206
+         ]
+      }, 
+      "Name": "Pasticceria Bastianello"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18581530000006, 
+            45.4521139
+         ]
+      }, 
+      "Name": "Gattullo"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.13761999999997, 
+            45.449812
+         ]
+      }, 
+      "Name": "Pasticceria Castelnuovo - Milano"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20249420000005, 
+            45.4791175
+         ]
+      }, 
+      "Name": "Pav\u00e8"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21225890000005, 
+            45.4804305
+         ]
+      }, 
+      "Name": "Pause"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17908809999994, 
+            45.4658374
+         ]
+      }, 
+      "Name": "Ammu Cannoli Espressi Siciliani"
+   }, 
+   {
+      "Category": "Brunch, colazioni e merende", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18061680000005, 
+            45.465447
+         ]
+      }, 
+      "Name": "Pasticceria Marchesi"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21105450000005, 
+            45.462972
+         ]
+      }, 
+      "Name": "Deep Milano"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18803750000006, 
+            45.4735024
+         ]
+      }, 
+      "Name": "N'Ombra de Vin"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21360089999996, 
+            45.4817919
+         ]
+      }, 
+      "Name": "Ciu's"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1842183, 
+            45.4507007
+         ]
+      }, 
+      "Name": "Fonderie Milanesi"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18110049999996, 
+            45.4608909
+         ]
+      }, 
+      "Name": "Ostello Bello"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18177620000006, 
+            45.4617517
+         ]
+      }, 
+      "Name": "Chiosco Mentana"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17720499999996, 
+            45.4578691
+         ]
+      }, 
+      "Name": "Le Biciclette"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22857049999993, 
+            45.4725449
+         ]
+      }, 
+      "Name": "Union Club - 5 EURO\u00a0"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18326279999997, 
+            45.4748228
+         ]
+      }, 
+      "Name": "Moleskine Caf\u00e9"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18553459999998, 
+            45.4701717
+         ]
+      }, 
+      "Name": "God Save The Food"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18380439999999, 
+            45.4737695
+         ]
+      }, 
+      "Name": "Tram\u00e9"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18838979999998, 
+            45.4790319
+         ]
+      }, 
+      "Name": "Dry"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18927499999995, 
+            45.479826
+         ]
+      }, 
+      "Name": "Carlsberg \u00d8l"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18732569999997, 
+            45.4887201
+         ]
+      }, 
+      "Name": "Frida"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20673779999993, 
+            45.4687476
+         ]
+      }, 
+      "Name": "Nottingham Forest"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1714412, 
+            45.476096
+         ]
+      }, 
+      "Name": "Duomo dal 1952"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.173946, 
+            45.4723752
+         ]
+      }, 
+      "Name": "La Triennale di Milano"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.2236024, 
+            45.4687076
+         ]
+      }, 
+      "Name": "Blender Bar"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20524479999995, 
+            45.4781288
+         ]
+      }, 
+      "Name": "Mint Garden Caf\u00e8"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20828979999999, 
+            45.4751473
+         ]
+      }, 
+      "Name": "Pesce Ubriaco"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.12384250000002, 
+            45.4686938
+         ]
+      }, 
+      "Name": "mare culturale urbano"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16422299999999, 
+            45.468047
+         ]
+      }, 
+      "Name": "Rufus Cocktail Bar"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.2278427, 
+            45.5017956
+         ]
+      }, 
+      "Name": "Ramada Plaza Milano"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1930132, 
+            45.4645995
+         ]
+      }, 
+      "Name": "Signorvino"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20796429999996, 
+            45.4732668
+         ]
+      }, 
+      "Name": "Gesto Milano"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1825793, 
+            45.4887876
+         ]
+      }, 
+      "Name": "Scalo Farini"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20642399999997, 
+            45.462531
+         ]
+      }, 
+      "Name": "Globe"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.23666579999997, 
+            45.4795236
+         ]
+      }, 
+      "Name": "Joy Bar"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.23436300000003, 
+            45.479672
+         ]
+      }, 
+      "Name": "Birrificio Lambrate Golgi"
+   }, 
+   {
+      "Category": "Aperitivo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1843357, 
+            45.4626661
+         ]
+      }, 
+      "Name": "Cervin"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18477519999999, 
+            45.4821729
+         ]
+      }, 
+      "Name": "Pescaria"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18029249999995, 
+            45.4652156
+         ]
+      }, 
+      "Name": "La Brisa"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20899459999998, 
+            45.4535683
+         ]
+      }, 
+      "Name": "Panificio Davide Longoni"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.15671810000003, 
+            45.4676847
+         ]
+      }, 
+      "Name": "Dedans Bar Milano"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19155449999994, 
+            45.4658276
+         ]
+      }, 
+      "Name": "Luini"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21599670000001, 
+            45.4761782
+         ]
+      }, 
+      "Name": "CIBO' Vegan food"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21675690000006, 
+            45.4786153
+         ]
+      }, 
+      "Name": "Ristorante Skuisito Osteria del pesce"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17374199999995, 
+            45.453068
+         ]
+      }, 
+      "Name": "Taglio"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17201410000007, 
+            45.4530168
+         ]
+      }, 
+      "Name": "Noodles"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19250450000004, 
+            45.4804889
+         ]
+      }, 
+      "Name": "soul green"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18711540000004, 
+            45.4623426
+         ]
+      }, 
+      "Name": "La Vecchia Latteria - VEG"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16738889999999, 
+            45.4228732
+         ]
+      }, 
+      "Name": "Erba Brusca"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20760680000001, 
+            45.4641443
+         ]
+      }, 
+      "Name": "L'Ov Milano - Food Lovers"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17544599999997, 
+            45.4558921
+         ]
+      }, 
+      "Name": "Orto \u2013 Erbe e Cucina"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20429799999999, 
+            45.4520248
+         ]
+      }, 
+      "Name": "MAM Milano Amore Mio"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19162860000006, 
+            45.4856273
+         ]
+      }, 
+      "Name": "Caf\u00e9 Gorille"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17687790000002, 
+            45.4781809
+         ]
+      }, 
+      "Name": "LibrOsteria"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16511249999996, 
+            45.4899005
+         ]
+      }, 
+      "Name": "Trattoria LaRavaelaFava"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19334300000003, 
+            45.462968
+         ]
+      }, 
+      "Name": "Vico Street Milano"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18389920000004, 
+            45.4795253
+         ]
+      }, 
+      "Name": "fancytoast Milano"
+   }, 
+   {
+      "Category": "Pranzo", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18178149999994, 
+            45.4817029
+         ]
+      }, 
+      "Name": "Circolo degli Alpini"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21145609999996, 
+            45.4778956
+         ]
+      }, 
+      "Name": "Pizzeria Piccola Ischia"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19054900000003, 
+            45.4873928
+         ]
+      }, 
+      "Name": "Berber\u00e9 Pizzeria"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21281309999995, 
+            45.4582911
+         ]
+      }, 
+      "Name": "MARGHE"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20758909999995, 
+            45.4583501
+         ]
+      }, 
+      "Name": "Briscola - Pizza Society"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1775725, 
+            45.4476449
+         ]
+      }, 
+      "Name": "Coke Pizzeria"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20743059999995, 
+            45.4612682
+         ]
+      }, 
+      "Name": "Al Pizzetta"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17105160000006, 
+            45.4810995
+         ]
+      }, 
+      "Name": "Pizzeria da Giuliano"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16368599999998, 
+            45.483827
+         ]
+      }, 
+      "Name": "Briscola - Pizza Society"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17953199999999, 
+            45.4482639
+         ]
+      }, 
+      "Name": "Da Giulio"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18593959999998, 
+            45.4808412
+         ]
+      }, 
+      "Name": "Peperino"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18632279999997, 
+            45.480301
+         ]
+      }, 
+      "Name": "Vasiniko"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.170571, 
+            45.451018
+         ]
+      }, 
+      "Name": "I Capatosta"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.23591160000001, 
+            45.4622764
+         ]
+      }, 
+      "Name": "Ai Tre Ponti"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21187770000006, 
+            45.4794467
+         ]
+      }, 
+      "Name": "MARGHE"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17747059999999, 
+            45.4457497
+         ]
+      }, 
+      "Name": "ICapatosta - Conchetta"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20206099999996, 
+            45.4554008
+         ]
+      }, 
+      "Name": "Da Michele I Condurro"
+   }, 
+   {
+      "Category": "Bissa (  Pizza )", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20255499999996, 
+            45.481571
+         ]
+      }, 
+      "Name": "Ristorante Pizzeria Napule \u00e8"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16795409999997, 
+            45.4552414
+         ]
+      }, 
+      "Name": "Maido! Milano"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18847349999999, 
+            45.487286
+         ]
+      }, 
+      "Name": "Maido"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18860710000001, 
+            45.478967
+         ]
+      }, 
+      "Name": "Zaz\u00e0 Ramen noodle bar & restaurant"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16575469999998, 
+            45.4831063
+         ]
+      }, 
+      "Name": "Kitchen Society"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18628030000002, 
+            45.463073
+         ]
+      }, 
+      "Name": "SlowSud Cucine di strada"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19295390000002, 
+            45.419952
+         ]
+      }, 
+      "Name": "Al Garghet"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22386140000003, 
+            45.4830682
+         ]
+      }, 
+      "Name": "Al Less"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17831409999997, 
+            45.4554065
+         ]
+      }, 
+      "Name": "A Casa Eatery"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.14935949999995, 
+            45.4928849
+         ]
+      }, 
+      "Name": "Innocenti Evasioni"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18850629999997, 
+            45.4811134
+         ]
+      }, 
+      "Name": "Origami Japanese Cuisine Sushi Circle"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.179573, 
+            45.458857
+         ]
+      }, 
+      "Name": "Kisen Sushi Restaurant"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18449720000001, 
+            45.4592346
+         ]
+      }, 
+      "Name": "Sarla"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21164210000006, 
+            45.4511969
+         ]
+      }, 
+      "Name": "Un posto a Milano"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18810340000005, 
+            45.4891296
+         ]
+      }, 
+      "Name": "Taj Mahal"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21705889999998, 
+            45.449084
+         ]
+      }, 
+      "Name": "u barba"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17475479999996, 
+            45.4518958
+         ]
+      }, 
+      "Name": "El Brell\u00ecn"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18465079999999, 
+            45.4499744
+         ]
+      }, 
+      "Name": "Al Cortile"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18282160000001, 
+            45.479921
+         ]
+      }, 
+      "Name": "Serendib"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18347470000003, 
+            45.4794791
+         ]
+      }, 
+      "Name": "Pescetto"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20612800000004, 
+            45.458188
+         ]
+      }, 
+      "Name": "BIM Coreano"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20649170000002, 
+            45.4500859
+         ]
+      }, 
+      "Name": "Trattoria Mibabbo"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1894734, 
+            45.476663
+         ]
+      }, 
+      "Name": "Volemose Bene"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20466650000003, 
+            45.4519329
+         ]
+      }, 
+      "Name": "Giulio Pane e Ojo"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20460800000001, 
+            45.421716
+         ]
+      }, 
+      "Name": "Shambala Srl"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21837449999998, 
+            45.487633
+         ]
+      }, 
+      "Name": "Jubin2"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17593360000001, 
+            45.4812847
+         ]
+      }, 
+      "Name": "Ravioleria Sarpi"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20210689999999, 
+            45.4777428
+         ]
+      }, 
+      "Name": "Shangrila Ristorante"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21563219999996, 
+            45.4732148
+         ]
+      }, 
+      "Name": "Hostaria Terza Carbonaia"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21500420000007, 
+            45.4755408
+         ]
+      }, 
+      "Name": "Shiro"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21448650000002, 
+            45.4754571
+         ]
+      }, 
+      "Name": "Poporoya"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18570410000007, 
+            45.4690563
+         ]
+      }, 
+      "Name": "Vecchia Brera"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18325340000001, 
+            45.4746021
+         ]
+      }, 
+      "Name": "Temakinho Milano Brera"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18371630000001, 
+            45.4724491
+         ]
+      }, 
+      "Name": "Le Cotolette"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18477499999995, 
+            45.475314
+         ]
+      }, 
+      "Name": "Ham Holy Burger"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20966109999995, 
+            45.4646499
+         ]
+      }, 
+      "Name": "Canteen"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21086300000002, 
+            45.472443
+         ]
+      }, 
+      "Name": "Dim Sum"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20642099999998, 
+            45.4785002
+         ]
+      }, 
+      "Name": "Alhambra Ristoveg"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20548580000002, 
+            45.4783963
+         ]
+      }, 
+      "Name": "Albufera"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20275219999996, 
+            45.4907259
+         ]
+      }, 
+      "Name": "Ristorante Xiongdi"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18208730000003, 
+            45.4839175
+         ]
+      }, 
+      "Name": "Mythos - Pita gyros"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17255439999997, 
+            45.476708
+         ]
+      }, 
+      "Name": "Maido"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17373199999997, 
+            45.479037
+         ]
+      }, 
+      "Name": "Savana Ristorante Eritreo"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.15855169999998, 
+            45.4870524
+         ]
+      }, 
+      "Name": "La Pulperia"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16229870000006, 
+            45.486931
+         ]
+      }, 
+      "Name": "Faccio Cose Vedo Gente"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16818209999997, 
+            45.4858907
+         ]
+      }, 
+      "Name": "Ristorante Rifugio, Milano"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20867029999999, 
+            45.4520943
+         ]
+      }, 
+      "Name": "Nikko"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20699660000002, 
+            45.4495175
+         ]
+      }, 
+      "Name": "Radicetonda"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21285149999994, 
+            45.446871
+         ]
+      }, 
+      "Name": "Le Vent Du Nord"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20295220000003, 
+            45.4490989
+         ]
+      }, 
+      "Name": "Osteria La Voliera"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17447990000005, 
+            45.4515117
+         ]
+      }, 
+      "Name": "I Pesciolini"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16311930000006, 
+            45.4539718
+         ]
+      }, 
+      "Name": "Al Fresco"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19919110000001, 
+            45.4548284
+         ]
+      }, 
+      "Name": "Lacerba"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18359880000003, 
+            45.4739448
+         ]
+      }, 
+      "Name": "Siciliano - Brera"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18423780000001, 
+            45.4716166
+         ]
+      }, 
+      "Name": "Obic\u00e0 - Brera"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18206789999999, 
+            45.4642026
+         ]
+      }, 
+      "Name": "Hostaria Borromei"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19404959999997, 
+            45.4573074
+         ]
+      }, 
+      "Name": "Ristorante I Pesciolini"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16430000000003, 
+            45.448952
+         ]
+      }, 
+      "Name": "Damm-atra' Milano"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16472420000002, 
+            45.4481724
+         ]
+      }, 
+      "Name": "Trattoria Bolognese da Mauro"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20717939999997, 
+            45.4578182
+         ]
+      }, 
+      "Name": "Vasiliki Kouzina"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1713886, 
+            45.4556257
+         ]
+      }, 
+      "Name": "Langosteria Bistrot"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21499749999998, 
+            45.4700029
+         ]
+      }, 
+      "Name": "Gatt\u00f2 - Robe e Cucina"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21029899999996, 
+            45.474741
+         ]
+      }, 
+      "Name": "La Quarta Carbonaia"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18856140000003, 
+            45.4788936
+         ]
+      }, 
+      "Name": "Pisacco"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16693269999996, 
+            45.4525663
+         ]
+      }, 
+      "Name": "Da Noi In"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18635670000003, 
+            45.4828305
+         ]
+      }, 
+      "Name": "La Griglia di Varrone"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18860169999994, 
+            45.4891529
+         ]
+      }, 
+      "Name": "Casa Ramen"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20979920000002, 
+            45.4744451
+         ]
+      }, 
+      "Name": "Sol Levante\u00a0"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.13148469999999, 
+            45.4585063
+         ]
+      }, 
+      "Name": "Oasi Giapponese"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17684650000001, 
+            45.4596069
+         ]
+      }, 
+      "Name": "Nordic Grill"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21886399999994, 
+            45.4860989
+         ]
+      }, 
+      "Name": "Mao Hunan Ristorante"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21820170000001, 
+            45.4815681
+         ]
+      }, 
+      "Name": "Ginmi"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22261200000003, 
+            45.4816083
+         ]
+      }, 
+      "Name": "ristorante vietnamonamour"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20943299999999, 
+            45.473701
+         ]
+      }, 
+      "Name": "Ristorante Wars\u00e0"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.15927980000004, 
+            45.4751225
+         ]
+      }, 
+      "Name": "Mi \u2013 Cucina di Confine"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20746499999996, 
+            45.4493158
+         ]
+      }, 
+      "Name": "Izu"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16897300000005, 
+            45.453935
+         ]
+      }, 
+      "Name": "Basara milano - sushi pasticceria"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17357790000005, 
+            45.4604414
+         ]
+      }, 
+      "Name": "Posta - Cucina Espressa"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21758030000001, 
+            45.4899481
+         ]
+      }, 
+      "Name": "KUNGFU BAO"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20535300000006, 
+            45.4629979
+         ]
+      }, 
+      "Name": "Miscusi"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21438769999997, 
+            45.4435698
+         ]
+      }, 
+      "Name": "Baja Sardinja"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16147999999998, 
+            45.454987
+         ]
+      }, 
+      "Name": "Tagliabrodo"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.2148929, 
+            45.4662151
+         ]
+      }, 
+      "Name": "Dinette"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18332669999995, 
+            45.466427
+         ]
+      }, 
+      "Name": "Risoelatte"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.15121799999997, 
+            45.492191
+         ]
+      }, 
+      "Name": "Cinema Teatro Trieste"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18708889999994, 
+            45.4895961
+         ]
+      }, 
+      "Name": "Casa Ramen Super"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19293479999999, 
+            45.4853145
+         ]
+      }, 
+      "Name": "Ratan\u00e0"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17331360000003, 
+            45.4526741
+         ]
+      }, 
+      "Name": "28posti"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20087149999995, 
+            45.4504759
+         ]
+      }, 
+      "Name": "Polpa Burger Trattoria Romana"
+   }, 
+   {
+      "Category": "Cena", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20441260000007, 
+            45.4518883
+         ]
+      }, 
+      "Name": "La Cozzeria"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21570500000007, 
+            45.478334
+         ]
+      }, 
+      "Name": "Vineria di Via Stradella"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20299909999994, 
+            45.4791195
+         ]
+      }, 
+      "Name": "Atomic Bar"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20751229999996, 
+            45.4925278
+         ]
+      }, 
+      "Name": "Rock'N'Roll"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20906439999999, 
+            45.4921911
+         ]
+      }, 
+      "Name": "Tunnel"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18114059999994, 
+            45.4834814
+         ]
+      }, 
+      "Name": "Ceresio 7"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17624869999997, 
+            45.4814681
+         ]
+      }, 
+      "Name": "Cantine Isola"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.23010399999998, 
+            45.486849
+         ]
+      }, 
+      "Name": "Moscow Mule Bar Milano"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20093150000002, 
+            45.4507973
+         ]
+      }, 
+      "Name": "Refeel"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19484999999997, 
+            45.450458
+         ]
+      }, 
+      "Name": "POTAFIORI"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17769720000001, 
+            45.4517838
+         ]
+      }, 
+      "Name": "La Fontanella"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17685359999996, 
+            45.4458127
+         ]
+      }, 
+      "Name": "LA SACRESTIA"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17836320000004, 
+            45.4456856
+         ]
+      }, 
+      "Name": "Frizzi e Lazzi"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1745588, 
+            45.458505
+         ]
+      }, 
+      "Name": "La Buca Di San Vincenzo"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18911900000001, 
+            45.4752981
+         ]
+      }, 
+      "Name": "Fioraio Bianchi Caff\u00e8"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17874519999998, 
+            45.4430113
+         ]
+      }, 
+      "Name": "Carlo e Camilla"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19134540000005, 
+            45.4806314
+         ]
+      }, 
+      "Name": "Enoteca \"Il Cinghiale Rosso\""
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19340950000003, 
+            45.4801779
+         ]
+      }, 
+      "Name": "The Friends Pub Milano"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17077540000003, 
+            45.4525324
+         ]
+      }, 
+      "Name": "Ciclosfuso"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20652960000007, 
+            45.4780911
+         ]
+      }, 
+      "Name": "Vinile Milano"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17213560000005, 
+            45.4510046
+         ]
+      }, 
+      "Name": "Rebelot"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18945710000003, 
+            45.4574544
+         ]
+      }, 
+      "Name": "Al Mercato"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20192029999998, 
+            45.4598859
+         ]
+      }, 
+      "Name": "I Chiostri di San Barnaba"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17494199999999, 
+            45.452329
+         ]
+      }, 
+      "Name": "Morgante Cocktail & Soul"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19428059999996, 
+            45.4506616
+         ]
+      }, 
+      "Name": "La Cieca Enoteca"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21443859999999, 
+            45.4816804
+         ]
+      }, 
+      "Name": "Vino al Vino"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.17070450000006, 
+            45.4561698
+         ]
+      }, 
+      "Name": "Alle Zitelle"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.16257139999993, 
+            45.4616196
+         ]
+      }, 
+      "Name": "Bottiglieria Bulloni"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20529310000006, 
+            45.4437803
+         ]
+      }, 
+      "Name": "Bar Luce"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.15965800000004, 
+            45.5069973
+         ]
+      }, 
+      "Name": "Spirit de Milan"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.20353820000003, 
+            45.4808649
+         ]
+      }, 
+      "Name": "Monkey Cocktail Bar"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1868958, 
+            45.4873862
+         ]
+      }, 
+      "Name": "The Wall - Milano Isola"
+   }, 
+   {
+      "Category": "Drink", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.1878567, 
+            45.4894368
+         ]
+      }, 
+      "Name": "Wasabi"
+   }, 
+   {
+      "Category": "Buoni per feste", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22920999999997, 
+            45.503462
+         ]
+      }, 
+      "Name": "Cascina Martesana"
+   }, 
+   {
+      "Category": "Buoni per feste", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.18588460000001, 
+            45.4435288
+         ]
+      }, 
+      "Name": "Surfer's Den"
+   }, 
+   {
+      "Category": "Buoni per feste", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21155339999996, 
+            45.4511476
+         ]
+      }, 
+      "Name": "Cascina Cuccagna"
+   }, 
+   {
+      "Category": "Buoni per feste", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19539450000002, 
+            45.4487619
+         ]
+      }, 
+      "Name": "Circolo Arci Bellezza"
+   }, 
+   {
+      "Category": "Buoni per feste", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19644779999999, 
+            45.4727586
+         ]
+      }, 
+      "Name": "La Terrazza di Via Palestro"
+   }, 
+   {
+      "Category": "Buoni per feste", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.19373719999999, 
+            45.4336023
+         ]
+      }, 
+      "Name": "4cento"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21675690000006, 
+            45.4786153
+         ]
+      }, 
+      "Name": "Ristorante Skuisito Osteria del pesce"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22553889999995, 
+            45.4771815
+         ]
+      }, 
+      "Name": "Harp Pub Guinness"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22417989999997, 
+            45.4760839
+         ]
+      }, 
+      "Name": "Il Gelato di Gaia"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22405060000006, 
+            45.4752418
+         ]
+      }, 
+      "Name": "Kilomangiaro"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21448650000002, 
+            45.4754571
+         ]
+      }, 
+      "Name": "Poporoya"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21951899999999, 
+            45.480232
+         ]
+      }, 
+      "Name": "Mandarin 2"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21730400000001, 
+            45.481696
+         ]
+      }, 
+      "Name": "Pizzeria Piccola Ischia Viale Abruzzi"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21867999999995, 
+            45.4773788
+         ]
+      }, 
+      "Name": "Mister Panozzo"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22375360000001, 
+            45.4837239
+         ]
+      }, 
+      "Name": "Lee's"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22685479999996, 
+            45.4843538
+         ]
+      }, 
+      "Name": "Ristorante Pizzeria da Hakim"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22332549999999, 
+            45.4838725
+         ]
+      }, 
+      "Name": "Parsifal Caf\u0117"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22467340000003, 
+            45.4763547
+         ]
+      }, 
+      "Name": "La Padelletta"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21727340000007, 
+            45.4829919
+         ]
+      }, 
+      "Name": "Famoso"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22262030000002, 
+            45.4743105
+         ]
+      }, 
+      "Name": "Ristorante Wu TAIYO - Plinio"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.21739589999993, 
+            45.4851245
+         ]
+      }, 
+      "Name": "Kitchenette Break & Lunch"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22558939999999, 
+            45.4799976
+         ]
+      }, 
+      "Name": "Mundialpizza"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22783749999996, 
+            45.4815581
+         ]
+      }, 
+      "Name": "Skuisito"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.225145, 
+            45.4794577
+         ]
+      }, 
+      "Name": "Carrefour Market - Supermercato"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.22342709999998, 
+            45.4749993
+         ]
+      }, 
+      "Name": "Delizie Mediterranee"
+   }, 
+   {
+      "Category": "Ticket CEFRIEL", 
+      "geometry": {
+         "type": "Point", 
+         "coordinates": [
+            9.23014000000001, 
+            45.4822954
+         ]
+      }, 
+      "Name": "La Cuccagna"
+   }
+]
